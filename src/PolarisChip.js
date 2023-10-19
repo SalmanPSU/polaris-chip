@@ -38,8 +38,6 @@ export class PolarisChip extends LitElement {
     `;
   }
 
-
-
   constructor() {
     super();
     this.name = 'Football';
